@@ -1,0 +1,34 @@
+2022-07-12 17:05:08.608207: Zaczynam szukanie...
+
+2022-07-12 17:05:08.608207: Znaleziono dzielnik: 8462696833. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:08.608207: Dzielnik 8462696833 nie jest liczba pierwsza,poniewaz jest podzielna przez 839. Szukam dalej
+.
+2022-07-12 17:05:08.609210: Znaleziono dzielnik: 716151937. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:08.609210: Dzielnik 716151937 nie jest liczba pierwsza,poniewaz jest podzielna przez 71. Szukam dalej
+.
+2022-07-12 17:05:08.609210: Znaleziono dzielnik: 408464633. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:08.609210: Dzielnik 408464633 nie jest liczba pierwsza,poniewaz jest podzielna przez 71. Szukam dalej
+.
+2022-07-12 17:05:08.609210: Znaleziono dzielnik: 87625999. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:08.609210: Dzielnik 87625999 nie jest liczba pierwsza,poniewaz jest podzielna przez 71. Szukam dalej
+.
+2022-07-12 17:05:08.613213: Znaleziono dzielnik: 10086647. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:08.613213: Dzielnik 10086647 nie jest liczba pierwsza,poniewaz jest podzielna przez 1471. Szukam dalej
+.
+2022-07-12 17:05:08.617217: Znaleziono dzielnik: 5753023. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:08.617217: Dzielnik 5753023 nie jest liczba pierwsza,poniewaz jest podzielna przez 839. Szukam dalej
+.
+2022-07-12 17:05:08.646243: Znaleziono dzielnik: 1234169. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:08.646243: Dzielnik 1234169 nie jest liczba pierwsza,poniewaz jest podzielna przez 839. Szukam dalej
+.
+2022-07-12 17:05:08.703295: Znaleziono dzielnik: 486847. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:08.703295: Dzielnik 486847 nie jest liczba pierwsza,poniewaz jest podzielna przez 71. Szukam dalej
+.
+2022-07-12 17:05:09.046606: Znaleziono dzielnik: 104441. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:09.046606: Dzielnik 104441 nie jest liczba pierwsza,poniewaz jest podzielna przez 71. Szukam dalej
+.
+2022-07-12 17:05:09.375906: Znaleziono dzielnik: 59569. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:09.375906: Dzielnik 59569 nie jest liczba pierwsza,poniewaz jest podzielna przez 71. Szukam dalej
+.
+2022-07-12 17:05:15.211206: Znaleziono dzielnik: 6857. Sprawdzanie, czy jest to liczba pierwsza.
+2022-07-12 17:05:15.211206: Dzielnik 6857 jest liczba pierwsza! Konczymy zabawe!
