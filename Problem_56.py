@@ -37,4 +37,4 @@ for a in range(1,101):
             
             wynik_final = wynik
 
-print(wynik)
+print(wynik_final)
